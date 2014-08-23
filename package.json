@@ -1,7 +1,6 @@
 {
   "name": "clone-with-styles",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +11,16 @@
   "devDependencies": {
     "crel": "^1.1.2",
     "grape": "^1.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/clone-with-styles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/clone-with-styles/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/clone-with-styles"
 }
